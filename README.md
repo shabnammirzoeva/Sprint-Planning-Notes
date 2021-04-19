@@ -8,13 +8,13 @@ Preliminary external demo with Italy is scheduled for May 6, 2021.
 - [ON HOLD] PL kick-off: given the latest discovery about dotpay not supporting recurring payments, we are waiting for the green-light from PL to kick-off the project. @Peter Nordenstedt, if you get the approval this week, create tickets, ping me & we might be able to pick up some tickets this week as well.
 
 **Ops Tasks to be covered this week:**
-Test: Paypal Activation #162
-<strike> [[DE - Operational Fixes #363] </strike>
-PL: Update PNC # for Order 68027 to 916098218. #364
-[FR] : Review Claims Submitted #361
-[FR] : UpdateContract web-service is not called #362
-Ingress and infra #365
-FE: new temp UI for internal AaaS #350
-FE: Skatteverket json approval ingester #366
-If we have time, we will look into:
-(SE?) SendGrid templates not updating every hour #271
+-Test: Paypal Activation #162
+-<strike> [[DE - Operational Fixes #363] </strike>
+-PL: Update PNC # for Order 68027 to 916098218. #364
+-[FR] : Review Claims Submitted #361
+-[FR] : UpdateContract web-service is not called #362
+-Ingress and infra #365
+-FE: new temp UI for internal AaaS #350
+-FE: Skatteverket json approval ingester #366
+-If we have time, we will look into:
+-(SE?) SendGrid templates not updating every hour #271
