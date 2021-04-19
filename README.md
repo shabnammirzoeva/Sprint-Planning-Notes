@@ -1,4 +1,4 @@
-# Sprint 15 (Completed tasks)
+# Sprint 15 Review
 _
 **EPICS Tasks:**_
 - IT: continue with the price differentiation setup for IW & OOW development
