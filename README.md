@@ -15,5 +15,5 @@ __**Ops Tasks to be covered this week:**__
 - <strike> [FR] : UpdateContract web-service is not called #362 </strike>
 - <strike> FE: Skatteverket json approval ingester #366 </strike>
 - <strike> (SE?) SendGrid templates not updating every hour #271 </strike> Note: needs to be released in prod.
-- [DEPRIIRITIZED]Ingress and infra #365
+- [DEPRIORITIZED, PLANNED W16]Ingress and infra #365
 - [IN PROGRESS] FE: new temp UI for internal AaaS #350
