@@ -8,7 +8,7 @@ Preliminary external demo with Italy is scheduled for May 6, 2021.
 - [ON HOLD] PL kick-off: given the latest discovery about dotpay not supporting recurring payments, we are waiting for the green-light from PL to kick-off the project. @Peter Nordenstedt, if you get the approval this week, create tickets, ping me & we might be able to pick up some tickets this week as well.
 
 __**Ops Tasks to be covered this week:**__
--  [IN PROGRESS]Test: Paypal Activation #162
+- [IN PROGRESS]Test: Paypal Activation #162
 - <strike> [[DE - Operational Fixes #363] </strike>
 - <strike> PL: Update PNC # for Order 68027 to 916098218. #364 </strike>
 - <strike> [FR] : Review Claims Submitted #361 </strike>
