@@ -9,7 +9,7 @@ Preliminary external demo with Italy is scheduled for May 6, 2021.
 
 **Ops Tasks to be covered this week:**
 Test: Paypal Activation #162
-[DE - Operational Fixes #363](url)
+<strike> [[DE - Operational Fixes #363] </strike>
 PL: Update PNC # for Order 68027 to 916098218. #364
 [FR] : Review Claims Submitted #361
 [FR] : UpdateContract web-service is not called #362
