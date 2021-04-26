@@ -1,7 +1,7 @@
 # Sprint 16 Review
 
 **EPICS Tasks:**
-- [IN PROGRESS]IT: continue with the price differentiation setup for IW & OOW development. Internal demo scheduled for this week.
+- [IN PROGRESS]IT: continue with the price differentiation setup for IW & OOW development. 
 - [ON HOLD] HU IW: awaiting price update + new T&Cs. 
 - [ON HOLD] PL kick-off: given the latest discovery about dotpay not supporting recurring payments, we are waiting for the green-light from PL to kick-off the project. 
 
