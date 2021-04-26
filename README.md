@@ -14,7 +14,7 @@ __**Ops Tasks to be covered this week:**__
 - <strike>  HU - Operational Update T&Cs for FPR #368 </strike>
 - <strike>  IT: Chargeback list of cases with a claim reported #372 </strike>
 - [DEPRIORITIZED]Ingress and infra #365
--[IN PROGRESS]  FE: new temp UI for internal AaaS #350 
+- [IN PROGRESS]  FE: new temp UI for internal AaaS #350 
 
 
 
