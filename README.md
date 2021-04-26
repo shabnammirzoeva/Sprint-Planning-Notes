@@ -6,7 +6,7 @@
 - [ON HOLD] PL kick-off: given the latest discovery about dotpay not supporting recurring payments, we are waiting for the green-light from PL to kick-off the project. 
 
 __**Ops Tasks to be covered this week:**__
-- [IN PROGRESS]Test: Paypal Activation #162
+- [IN PROGRESS]Test: Paypal Activation #162. We need to clarify a few open ponts with Adyen; potentially, we might have some development to plan for.
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, please provide the claim info missing for us to close the ticket. 
 - [NEW, IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375
 - [NEW, IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
