@@ -10,13 +10,13 @@ EPICS:
 Ops Tasks:
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
 -  DE Operational Fixes (many fixes) #369. To be completed this week.
-- [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375
-- [IN PROGRESS] Test: Paypal Activation #162
+- [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. The issue with this consumer is resolved, however, the bug is still being investigated.
+- [IN PROGRESS] Test: Paypal Activation #162. First round of tests completd. Need to run one round of additional tests before closing the ticket.
 - <strike> [IN PROGRESS] IT: Chargeback list of cases with a claim reported #372 </strike>
 - <strike> ConCent: NO, FI, ES + PT Create staging environment for testing #376 </strike>
 - <strike> ConCent ES+PT: set up the offer in staging environment #378 </strike>
 - <strike> ConCent: NO + FI: set up the offering in staging environment identical to IT #374 </strike>
-- AaaS FE: batch features #388
+- <strike> AaaS FE: batch features #388 </strike>
 - [IN PROGRESS]  FE: new temp UI for internal AaaS #350 
 - [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
 
