@@ -7,7 +7,6 @@ Internal demo scheduled this week. External demo on May 6.
 [ON HOLD] HU IW: awaiting price update + new T&Cs. 
 [ON HOLD] PL kick-off: Still awaiting green-light from PL to kick-off the project. 
 [IN REVIEW] CZ IW: requirements received and to be reviewed by the product + Daniele on Wed, April 28. @Peter Nordenstedt I'll get back to you straight after.
-
 Ops Tasks to be covered this week:
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
 - <strike>[IN PROGRESS]]DE Operational Fixes (many fixes) #369. To be completed this week.</strike>
