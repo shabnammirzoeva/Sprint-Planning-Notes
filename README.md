@@ -9,7 +9,7 @@ EPICS:
 
 Ops Tasks:
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
--  DE Operational Fixes (many fixes) #369. To be completed this week.
+-  <strike> DE Operational Fixes (many fixes) #369. To be completed this week. </strike>
 - [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. The issue with this consumer is resolved, however, the bug is still being investigated.
 - [IN PROGRESS] Test: Paypal Activation #162. First round of tests completd. Need to run one round of additional tests before closing the ticket.
 - <strike> [IN PROGRESS] IT: Chargeback list of cases with a claim reported #372 </strike>
