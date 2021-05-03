@@ -7,15 +7,15 @@ EPICS:
 - [ON HOLD] PL kick-off: Still awaiting green-light from PL to kick-off the project. 
 - [IN REVIEW] CZ IW: requirements received and to be reviewed by the product + Daniele on Wed, April 28. @Peter Nordenstedt I'll get back to you straight after.
 
-Ops Tasks to be covered this week:
+Ops Tasks:
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
 -  DE Operational Fixes (many fixes) #369. To be completed this week.
 - [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375
 - [IN PROGRESS] Test: Paypal Activation #162
-- <strike> [IN PROGRESS] IT: Chargeback list of cases with a claim reported #372
-- <strike> ConCent: NO, FI, ES + PT Create staging environment for testing #376
-- <strike> ConCent ES+PT: set up the offer in staging environment #378
-- <strike> ConCent: NO + FI: set up the offering in staging environment identical to IT #374
+- <strike> [IN PROGRESS] IT: Chargeback list of cases with a claim reported #372 </strike>
+- <strike> ConCent: NO, FI, ES + PT Create staging environment for testing #376 </strike>
+- <strike> ConCent ES+PT: set up the offer in staging environment #378 </strike>
+- <strike> ConCent: NO + FI: set up the offering in staging environment identical to IT #374 </strike>
 - AaaS FE: batch features #388
 - [IN PROGRESS]  FE: new temp UI for internal AaaS #350 
 - [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
