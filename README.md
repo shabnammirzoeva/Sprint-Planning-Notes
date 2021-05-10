@@ -10,7 +10,7 @@
 - <strike>  PL: Issue with the agent IDs #359 </strike>
 - <strike> IT: Move from "terminated" to "failed payments" #382 </strike>
 - <strike> Ingress and infra #365 </strike>
-- [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391
+- [ON HOLD] SE: generate the excel invoice for Skatteverket #391._ Backend implementation is complete, just need to determine correct values in few of the fields in he excel invoice_ _Waiting for a response from SE team regarding those fields._
 - [IN PROGRESS] FE: Configure BO to support new C4C countries #396. _Almost completed. Final configurations left to implement this week. Will require half a day for Tommy._
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
 - [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. _The issue with this consumer is resolved, however, the bug is still being investigated_.
