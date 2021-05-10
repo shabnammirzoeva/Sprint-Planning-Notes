@@ -9,9 +9,12 @@
 - <strike> PL - Update policy 71660 #393PL: Issue with the agent IDs #359 </strike>
 - SE: generate the excel invoice for Skatteverket #391
 - <strike> IT: Move from "terminated" to "failed payments" #382 </strike>
-- [IN PROGRESS]FE: Configure BO to support new C4C countries #396. Almost completed. Final configurations left to implement this week. Will require half a day for Tommy.
+- <strike> Ingress and infra #365 </strike>
+- [IN PROGRESS] FE: Configure BO to support new C4C countries #396. _Almost completed. Final configurations left to implement this week. Will require half a day for Tommy._
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
-- [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. The issue with this consumer is resolved, however, the bug is still being investigated.--- [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests, after IT Demo, before closing the ticket.[IN PROGRESS]  FE: new temp UI for internal AaaS #350 [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
+- [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. The issue with this consumer is resolved, however, the bug is still being investigated.--- [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests, after IT Demo, before closing the ticket.
+- [IN PROGRESS]  FE: new temp UI for internal AaaS #350 [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
+
 
 
 
