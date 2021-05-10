@@ -3,7 +3,7 @@
 **EPICS:**
 
 -[IN PROGRESS]  IT: continue with the price differentiation setup for IW & OOW development:
-- <strike> Internal demo scheduled this week. External demo on May 6. </strike> Successfully completed. Next step: release all changes in the production environment.
+- <strike> Internal demo scheduled this week. External demo on May 6. </strike> _Successfully completed. Next step: release all changes in the production environment._
  
 **Ops Tasks:**
 - <strike> PL - Update policy 71660 #393PL: Issue with the agent IDs #359 </strike>
