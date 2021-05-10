@@ -1,8 +1,13 @@
+# Sprint 18 Review
 
-EPICS:
--[IN PROGRESS]  Preparing for the release in production env.:Pricing Service - apply the price logic to each service #381
--Product Offering Model refactoring to handle IW Price switch #355FE: Price handling #392Ops Tasks to be covered this week:
--PL - Update policy 71660 #393PL: Issue with the agent IDs #359
+**EPICS:**
+
+-[IN PROGRESS]  Preparing for the release in production env.:
+- Pricing Service - apply the price logic to each service #381
+- Product Offering Model refactoring to handle IW Price switch #355FE: Price handling #392Ops 
+ 
+**Ops Tasks:**
+- PL - Update policy 71660 #393PL: Issue with the agent IDs #359
 - SE: generate the excel invoice for Skatteverket #391
 - IT: Move from "terminated" to "failed payments" #382
 - FE: Configure BO to support new C4C countries #396
@@ -13,13 +18,13 @@ EPICS:
 
 # Sprint 17 Review
 
-EPICS:
+**EPICS:**
 - [IN PROGRESS] IT: continue with the price differentiation setup for IW & OOW development. Internal demo scheduled this week. External demo on May 6.
 - [ON HOLD] HU IW: awaiting price update + new T&Cs. 
 - [ON HOLD] PL kick-off: Still awaiting green-light from PL to kick-off the project. 
 - [IN REVIEW] CZ IW: requirements received and to be reviewed by the product + Daniele on Wed, April 28. @Peter Nordenstedt I'll get back to you straight after. _Reviewed the development and estimated time needed for delivery to @Peter._
 
-Ops Tasks:
+**Ops Tasks:**
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
 -  <strike> DE Operational Fixes (many fixes) #369. To be completed this week. </strike>
 - [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. _The issue with this consumer is resolved, however, the bug is still being investigated._
