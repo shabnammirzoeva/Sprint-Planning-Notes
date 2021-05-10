@@ -7,6 +7,7 @@
  
 **Ops Tasks:**
 - <strike> PL - Update policy 71660 #393PL: Issue with the agent IDs #359 </strike>
+- <strike>  PL: Issue with the agent IDs #359 </strike>
 - <strike> IT: Move from "terminated" to "failed payments" #382 </strike>
 - <strike> Ingress and infra #365 </strike>
 - [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391
