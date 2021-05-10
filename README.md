@@ -1,4 +1,16 @@
 
+EPICS:
+-[IN PROGRESS]  Preparing for the release in production env.:Pricing Service - apply the price logic to each service #381
+-Product Offering Model refactoring to handle IW Price switch #355FE: Price handling #392Ops Tasks to be covered this week:
+-PL - Update policy 71660 #393PL: Issue with the agent IDs #359
+- SE: generate the excel invoice for Skatteverket #391
+- IT: Move from "terminated" to "failed payments" #382
+- FE: Configure BO to support new C4C countries #396
+- [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
+- [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. The issue with this consumer is resolved, however, the bug is still being investigated.--- [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests, after IT Demo, before closing the ticket.[IN PROGRESS]  FE: new temp UI for internal AaaS #350 [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
+
+
+
 # Sprint 17 Review
 
 EPICS:
