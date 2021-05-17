@@ -5,14 +5,23 @@ EPICS:
 
 [IN PROGRESS]  Preparing for the release in production env for the following tickets:
 - Pricing Service - apply the price logic to each service #381
-- Product Offering Model refactoring to handle IW Price switch #355FE: Price handling #392Ops Tasks to be covered this week:DE: Invoicing Issues with Dates #404
-- HU - Update T&C and pricing for FPR by morning May 12th #399
-- PL - Outbound list extract #400
-- PL: Update policy 54052 #401
-- UK: Service Material Handling #403
-- [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. Backend implementation is complete, just need to determine correct values in few of the fields in the excel invoice. Awaiting for a response from SE team regarding those fields.[IN PROGRESS] [ FE: Configure BO to support new C4C countries #396. Final configurations left to implement this week. Will require half a day for Tommy.
+- Product Offering Model refactoring to handle IW Price switch #355FE: Price handling #392Ops 
+ 
+Tasks to be covered this week:
+- <strike> DE: Invoicing Issues with Dates #404 </strike>
+- <strike> HU - Update T&C and pricing for FPR by morning May 12th #399 </strike>
+- <strike> PL - Outbound list extract #400 </strike>
+- <strike> PL: Update policy 54052 #401 </strike>
+- [IN PROGRESS] UK: Service Material Handling #403. Task is completed. Testing is pending before the final release.
+- [ON HOLD] SE: generate the excel invoice for Skatteverket #391. Backend implementation is complete, just need to determine correct values in few of the fields in the excel invoice. Awaiting for a response from SE team regarding those fields.
+- [IN PROGRESS] FE: Configure BO to support new C4C countries #396. Final configurations left to implement this week. Will require half a day for Tommy.
 - [ON HOLD] Operational DE - pending actions #334  @Liang Hiah, to get back to us on the missing info for order # 54140.
-- [IN PROGRESS] [DE] Consumer paid 2x for initial payment using SEPA #375. The issue with this consumer is resolved, however, the bug is still being investigated.- - [IN PROGRESS]  FE: new temp UI for internal AaaS #350 If we have time, we will pick up on:[IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests, after IT Demo, before closing the ticket.[IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
+- <strike> [IN PROGRESS] DE Consumer paid 2x for initial payment using SEPA #375. </strike>
+- [IN PROGRESS]  FE: new temp UI for internal AaaS #350 
+ 
+If we have time, we will pick up on:
+- [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests, after IT Demo, before closing the ticket.
+- [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
 
 
 
