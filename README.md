@@ -1,20 +1,21 @@
 # Sprint 20 Review
 
 **EPICS:**
-- [IN PROGRESS]  Preparing for the release in production env.
-- UK - Book-a-service project, covering the following tickets:BE: 
-- UK BaS define dedicated endpoints to create Orders by C4C data #417FE: 
-- UK BaS - checkout page #416
+- [IN PROGRESS]  Preparing for the release in production env. planned on Mayb 25.
+
+UK - Book-a-service project, covering the following tickets
+- UK BaS define dedicated endpoints to create Orders by C4C data #417. Opened a PR; needs a review. 
+- UK BaS - checkout page #416. Waiting for endpoints from the BE team.
 
 **Ops Tasks to be covered this week:DE - Ops ticket (w20) #409**
 - <strike> CZ - Cancel contract #413 </strike>
 - <strike> FR - cancel contracts (updated) #397 </strike>
 - <strike> IT: Cancel the order 61969 #407 </strike>
 - <strike>[IN PROGRESS] UK: Service Material Handling #403. Task is completed, needs to be reviewed and released.</strike>
-- [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. Backend implementation is complete, just need to determine correct values in few of the fields in the excel invoice. Awaiting for a response from SE team regarding those fields.
 - <strike>[IN PROGRESS] [ FE: Configure BO to support new C4C countries #396.</strike>
 
 - <strike> [IN PROGRESS]  FE: new temp UI for internal AaaS #350. It is an on-going project & will take several weeks to complete.</strike>
+- [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. Backend implementation is complete, just need to determine correct values in few of the fields in the excel invoice. Awaiting for a response from SE team regarding those fields.
 - [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests mid-this week before closing the ticket.
 - [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
 
