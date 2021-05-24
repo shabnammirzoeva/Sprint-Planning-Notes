@@ -1,9 +1,9 @@
 # Sprint 20 Review
 
 **EPICS:**
-- [IN PROGRESS]  Preparing for the release in production env. planned on Mayb 25.
+- [IN PROGRESS]  Preparing for the release in production env. planned on May 25.
 
-UK - Book-a-service project, covering the following tickets
+[IN PROGRESS] UK - Book-a-service project, covering the following tickets
 - UK BaS define dedicated endpoints to create Orders by C4C data #417. Opened a PR; needs a review. 
 - UK BaS - checkout page #416. Waiting for endpoints from the BE team.
 
@@ -16,7 +16,7 @@ UK - Book-a-service project, covering the following tickets
 
 - <strike> [IN PROGRESS]  FE: new temp UI for internal AaaS #350. It is an on-going project & will take several weeks to complete.</strike>
 - [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. Backend implementation is complete, just need to determine correct values in few of the fields in the excel invoice. Awaiting for a response from SE team regarding those fields.
-- [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests mid-this week before closing the ticket.
+- [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests mid-this week before closing the ticket.Didn't have time to pick it up in W20.
 - [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
 
 
