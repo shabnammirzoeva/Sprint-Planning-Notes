@@ -1,8 +1,8 @@
 # Sprint 21
 
 EPICS:
-- [IN PROGRESS]  Preparing for the release in production environment.
-- CZ IW Offer 
+- <strike> [IN PROGRESS]  Preparing for the release in production environment. </strike>
+- CZ IW Offer. In progress. Demo is schedule W22.
 [IN PROGRESS] UK - Book-a-service project, covering the following tickets:
 - BE: UK BaS define dedicated endpoints to create Orders by C4C data #417
 - FE: UK BaS - checkout page #416
@@ -18,7 +18,7 @@ EPICS:
 - <strike>[IN PROGRESS] FE: AaaS apply translations handling #435 </strike>
 - <strike> [IN PROGRESS]  DE - Ops ticket (w20) #409. </strike>
 - [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. In Testing Phase. Should be completed W22.
-- strike> [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests mid-this week before closing the ticket. </strike>
+- <strike> [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests mid-this week before closing the ticket. </strike>
 
 **AD-HOC TICKETS:**
 We had 3 ad-hoc tickets, which were added during the week, and were not a part of the planned sprint:
