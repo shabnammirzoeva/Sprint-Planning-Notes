@@ -1,3 +1,34 @@
+# Sprint 21
+
+EPICS:
+- [IN PROGRESS]  Preparing for the release in production environment.
+- CZ IW Offer 
+[IN PROGRESS] UK - Book-a-service project, covering the following tickets:
+- BE: UK BaS define dedicated endpoints to create Orders by C4C data #417
+- FE: UK BaS - checkout page #416
+
+**Ops Tasks to be covered this week:**
+- <strike> SE - Invoice/Credit Note problems #431 </strike>
+- DE: Update invoice template for tax-deductible purpose #422. 
+- <strike> DE - Ops ticket (w21) #419 </strike>
+- <strike> DE: Reset CCT manager user password #425 </strike>
+- CZ - Add cancellation scenario to R&C #432. In Testing Phase. Should be completed W22.
+- <strike> PL - Update policy #412 </strike>
+- <strike>[IN PROGRESS] FE: AaaS configure validation for LeasingDetails #434 </strike>
+- <strike>[IN PROGRESS] FE: AaaS apply translations handling #435 </strike>
+- <strike> [IN PROGRESS]  DE - Ops ticket (w20) #409. </strike>
+- [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. In Testing Phase. Should be completed W22.
+- strike> [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests mid-this week before closing the ticket. </strike>
+
+**AD-HOC TICKETS:**
+We had 3 ad-hoc tickets, which were added during the week, and were not a part of the planned sprint:
+
+- <strike>  IT - Claim Update does not reflect in CCT Backoffice or in transaction report #423 </strike>
+- <strike> QuickSight: align reports to reflect the latest price changes #443 </strike>
+- (IN REVIEW) SE: SAP invoicing flows to map by action #267
+
+
+
 # Sprint 20 Review
 
 **EPICS:**
@@ -18,6 +49,9 @@
 - [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. Backend implementation is complete, just need to determine correct values in few of the fields in the excel invoice. Awaiting for a response from SE team regarding those fields.
 - [IN PROGRESS] Test: Paypal Activation #162. First round of successful tests completed. Plan to run one round of additional tests mid-this week before closing the ticket.Didn't have time to pick it up in W20.
 - [IN PROGRESS] Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
+
+
+
 
 
 # Sprint 19 Review
