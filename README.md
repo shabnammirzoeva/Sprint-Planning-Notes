@@ -3,7 +3,7 @@
 EPICS:
 - <strike> [IN PROGRESS]  Preparing for the release in production environment. </strike>
 - CZ IW Offer. In progress. Demo is schedule W22.
-[IN PROGRESS] UK - Book-a-service project, covering the following tickets:
+- [IN PROGRESS] UK - Book-a-service project, covering the following tickets:
 - BE: UK BaS define dedicated endpoints to create Orders by C4C data #417
 - FE: UK BaS - checkout page #416
 
