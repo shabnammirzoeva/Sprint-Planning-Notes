@@ -4,7 +4,7 @@
 
 1) <strike> Italy IW Launch: </strike>
 -  <strike>[IN PROGRESS]  IT: Updated Prices + New Offering Name for Care Offer with AD. #444 </strike>
-- <strike> IT SAP Invoicing Flow for new offers - Care with AD. 
+- <strike> IT SAP Invoicing Flow for new offers - Care with AD. </strike>
 
  2) CZ: OOW Offering #449 </strike>. Still in to-do. Will be picked up W23.
 
