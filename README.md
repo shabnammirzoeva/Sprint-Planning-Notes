@@ -6,7 +6,7 @@
 -  <strike>[IN PROGRESS]  IT: Updated Prices + New Offering Name for Care Offer with AD. #444 </strike>
 - <strike> IT SAP Invoicing Flow for new offers - Care with AD. 
 
- 2) #454CZ: OOW Offering #449 </strike>. Still in to-do. Will be picked up W23.
+ 2) CZ: OOW Offering #449 </strike>. Still in to-do. Will be picked up W23.
 
 3)) <strike> IN PROGRESS]  CZ IW Offering #430 </strike> Demo is scheduled on Friday, June 11.
 
