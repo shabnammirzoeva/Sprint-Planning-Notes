@@ -1,5 +1,39 @@
 # Sprint 21
 
+**EPICS:**
+
+1) <strike> Italy IW Launch: </strike>
+-  <strike>[IN PROGRESS]  IT: Updated Prices + New Offering Name for Care Offer with AD. #444 </strike>
+- <strike> IT SAP Invoicing Flow for new offers - Care with AD. #454CZ: OOW Offering #449 </strike>
+
+2) <strike> IN PROGRESS]  CZ IW Offering #430 </strike> Demo is scheduled on Friday, June 11.
+
+2) [IN PROGRESS] UK - Book-a-service project, covering the following tickets.
+- BE: UK BaS define dedicated endpoints to create Orders by C4C data #417
+- FE: UK BaS - checkout page #416
+
+Still pending as we are awaiting for the merchant account(s) to be activated for us to run E2E testing.
+
+**Ops Tasks W22:**
+- <strike> DE: Ops tickets (w22) #445 </strike>
+- <strike> PL - Update Agent ID </strike>
+- <strike> (SE) Create Amazon Account for Bruno (Central) to access SA details folder #436 </strike>
+- <strike> ALL - QuickSight [order_detailed] to include lcct_id and offer_name #410 </strike>
+- [BE] UK BaS: payment-service adjustments #202
+- <strike> [BE] PL: Segmentation of FPR pricing #447 </strike>
+- <strike> [FE] PL: Segmentation of FPR pricing #451 </strike>. Completed, needs to be released.
+- (Testing) FE: AaaS LeasedAppliances export #442. Completed, testing in staging now.
+- (In progress) Regulus monthly operational #453. The orders have been reviewed and some require intervention from the local market. 
+- <strike> DE: Update invoice template for tax-deductible purpose #422 </strike>
+
+
+
+
+
+
+
+# Sprint 21
+
 EPICS:
 - <strike> [IN PROGRESS]  Preparing for the release in production environment. </strike>
 - CZ IW Offer. In progress. Demo is schedule W22.
