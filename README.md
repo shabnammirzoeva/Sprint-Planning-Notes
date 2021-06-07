@@ -4,11 +4,13 @@
 
 1) <strike> Italy IW Launch: </strike>
 -  <strike>[IN PROGRESS]  IT: Updated Prices + New Offering Name for Care Offer with AD. #444 </strike>
-- <strike> IT SAP Invoicing Flow for new offers - Care with AD. #454CZ: OOW Offering #449 </strike>
+- <strike> IT SAP Invoicing Flow for new offers - Care with AD. 
 
-2) <strike> IN PROGRESS]  CZ IW Offering #430 </strike> Demo is scheduled on Friday, June 11.
+ 2) #454CZ: OOW Offering #449 </strike>. Still in to-do. Will be picked up W23.
 
-2) [IN PROGRESS] UK - Book-a-service project, covering the following tickets.
+3)) <strike> IN PROGRESS]  CZ IW Offering #430 </strike> Demo is scheduled on Friday, June 11.
+
+4)) [IN PROGRESS] UK - Book-a-service project, covering the following tickets.
 - BE: UK BaS define dedicated endpoints to create Orders by C4C data #417
 - FE: UK BaS - checkout page #416
 
@@ -27,9 +29,9 @@ Still pending as we are awaiting for the merchant account(s) to be activated for
 - <strike> DE: Update invoice template for tax-deductible purpose #422 </strike>
 
 **Ad-hoc**
-- IT - Claim Update does not reflect in CCT Backoffice or in transaction report #423
-- QuickSight: align reports to reflect the latest price changes #443
-- SE: SAP invoicing flows to map by action #267
+- <strike> IT - Claim Update does not reflect in CCT Backoffice or in transaction report #423 </strike>
+- <strike> QuickSight: align reports to reflect the latest price changes  #443 </strike>
+- (In progress) SE: SAP invoicing flows to map by action #267. Dependent on the release & merge of the IT SAP Changes #456
 
 
 
