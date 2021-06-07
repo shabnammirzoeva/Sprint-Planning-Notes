@@ -8,7 +8,7 @@
 
  2) CZ: OOW Offering #449 </strike>. Still in to-do. Will be picked up W23.
 
-3)) <strike> IN PROGRESS]  CZ IW Offering #430 </strike> Demo is scheduled on Friday, June 11.
+3)) IN PROGRESS]  CZ IW Offering #430 </strike> Demo is scheduled on Friday, June 11.
 
 4)) [IN PROGRESS] UK - Book-a-service project, covering the following tickets.
 - BE: UK BaS define dedicated endpoints to create Orders by C4C data #417
