@@ -26,8 +26,10 @@ Still pending as we are awaiting for the merchant account(s) to be activated for
 - (In progress) Regulus monthly operational #453. The orders have been reviewed and some require intervention from the local market. 
 - <strike> DE: Update invoice template for tax-deductible purpose #422 </strike>
 
-
-
+**Ad-hoc**
+- IT - Claim Update does not reflect in CCT Backoffice or in transaction report #423
+- QuickSight: align reports to reflect the latest price changes #443
+- SE: SAP invoicing flows to map by action #267
 
 
 
