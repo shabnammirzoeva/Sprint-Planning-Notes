@@ -9,8 +9,8 @@
 - - <strike> FE: UK BaS - checkout page #416 </strike>
 
 **Ops Tasks W23:**
-- [IN PROGRESS] Regulus monthly operational #453. The orders have been reviewed and some require intervention from the local market. @Peter Nordenstedt 
-- [Moved Back to Backlog] SE: Setup new master account #448. The eng. team needs to investigate the complexity of setting up a master account prior to its implementation. _After some investigation, it was concluded that giving access to a manager across all environments will be a large task and we will wait until authorization scheme is in place for ISP channels in August/Sep._
+- [IN PROGRESS] Regulus monthly operational #453. _The orders have been reviewed and some require intervention from the local market. @Peter Nordenstedt_ 
+- [Moved Back to Backlog] SE: Setup new master account #448. _The eng. team needs to investigate the complexity of setting up a master account prior to its implementation_. _After some investigation, it was concluded that giving access to a manager across all environments will be a large task and we will wait until authorization scheme is in place for ISP channels in August/Sep._
 - <strike> Set up a web checkout for IT with the offer with AD (IW & OOW) #408. These offers are required for the outbound marketing campaigns we will run with Central Team at the end of June. </strike>
 - DE: Set up trigger for automated payment reminder #424. Required to handle missing payments for DE (+Nordics) market(s) post-ISP visit. _Due to insufficient info. regarding the task, The ticket has been pushed to this week. _
 - [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. Dependent on the SAP release for IT. 
