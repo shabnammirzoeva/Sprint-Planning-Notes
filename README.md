@@ -1,3 +1,30 @@
+# Sprint 23
+
+**EPICS:**
+- [IN PROGRESS]CZ OOW. _Orders are setup. The team needs additional 2 days to implement a new state for Monthly/Yearly Orders, which are outside of the binding period and are cancelled._
+- [IN PROGRESS] UK - Book-a-service project - The testing merchant account is created and the testing has began. 
+
+
+- - BE: UK BaS define dedicated endpoints to create Orders by C4C data #417- _Completed. In testing stage._
+- - <strike> FE: UK BaS - checkout page #416 </strike>
+
+**Ops Tasks W23:**
+- [IN PROGRESS] Regulus monthly operational #453. The orders have been reviewed and some require intervention from the local market. @Peter Nordenstedt 
+- (Moved Back to Backlog) SE: Setup new master account #448. The eng. team needs to investigate the complexity of setting up a master account prior to its implementation. _After some investigation, it was concluded that giving access to a manager across all environments will be a large task and we will wait until authorization scheme is in place for ISP channels in August/Sep._
+- <strike> Set up a web checkout for IT with the offer with AD (IW & OOW) #408. These offers are required for the outbound marketing campaigns we will run with Central Team at the end of June. </strike>
+- DE: Set up trigger for automated payment reminder #424. Required to handle missing payments for DE (+Nordics) market(s) post-ISP visit. _Due to insufficient info. regarding the task, The ticket has been pushed to this week. _
+- [IN PROGRESS] SE: generate the excel invoice for Skatteverket #391. Dependent on the SAP release for IT. 
+-  <strike> FE: AaaS LeasedAppliances export #442
+- FE AaaS: add currency code to LeasingDetails #463  </strike>
+
+
+**AD-HOC Tickets**
+- <strike> IT Web Order - Error description message missing #455. The bug fix is released, but we are reviewing various possible solutions for this issue.
+- HU- Push certificate to Regulus #457
+- IT: C4C ticket - Nexure order misalignments investigation #458
+- Failed Recurring Payments #464 </strike>
+
+
 # Sprint 22
 
 **EPICS:**
