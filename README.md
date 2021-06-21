@@ -1,3 +1,28 @@
+# Sprint 24
+
+**EPICS W23:**
+- <strike> CZ OOW: Orders are setup. The team needs additional 2 days to implement a new state for Monthly/Yearly Orders, which are outside of the binding period and are cancelled. The solution is being currently investigated.
+-  UK - Book-a-service project. The testing merchant account is created and testing has began. </strike>
+-  a) BE: UK BaS define dedicated endpoints to create Orders by C4C data #417
+
+
+**Ops Tasks:**
+- <strike> FR: Ops tickets (w24) #476
+- DE: Ops tickets (w24) #474
+- IT Grace Period - Deactivate for Garanzia Estesa Easy & Family IW offers only #475
+- HU: Add basic offerings #446DE: Set up trigger for automated payment reminder #424. Required to handle missing payments for DE (+Nordics) market(s) post-ISP visit. </strike>
+- [IN REVIEW]  SE: generate the excel invoice for Skatteverket #391. Dependent on the SAP release for IT. 
+- [IN PROGRESS]  Better Tracking of Payment Failures (Phase 1 of Resillient Schedulling) #81
+- [IN PROGRESS]  Regulus monthly operational #453. _The orders have been reviewed and some require intervention from the local market._ @Peter Nordenstedt
+- [ON HOLD] Italian T&Cs for Garanzia Estesa Premium Easy + Family #473. _Moved to W25. Still awaiting for T&Cs._
+
+If we have time, we will pick up the following ticket for ConCent Wave launch: 
+<strike>  
+- ConCent Iberia + Nordics - Email IDs #394 </strike>
+
+Ad-hoc ticket (added last week):
+- <strike> FE AaaS: make LeasedAppliance search pageable #469 </strike>
+
 # Sprint 23
 
 **EPICS:**
