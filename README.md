@@ -1,3 +1,27 @@
+
+
+# Sprint 25
+
+**Ops Tasks:**
+- <strike> UK: Add manager's account #494
+- IT: Ops Ticket #478
+- DE: Ops ticket (w25) #481
+- FR: Ops ticket (w25) #480
+- FE HU:Add Appliance purchase price to CCT #493
+- BE AaaS: fix the LeasingDetails update for a LeasedAppliance #489
+- SE: generate invoices for Skatteverket #391 </strike>
+- [IN PROGRESS] DE Subledger fix #456 - Almost completed. Will be done W26
+- [IN PROGRESS] UK: Email IDs setup #498. Will be done W26
+
+**Ad-hoc tickets added W24. All are completed now:**
+- <strike> FE: enable SSO for the latest C4C countries #495
+- Configure and test SSO for UK (Inbound) #486
+- FE BaS: zipCode validation on checkout page #485
+- BE+FE AaaS: update the endpoints to support auth calls #488
+- Order detailed visuals not showing amount Eur from 23 May #4
+- IT: Activate "Report a claim" field in CCT Order Page #482 </strike>
+
+
 # Sprint 24
 
 **EPICS W23:**
