@@ -1,4 +1,33 @@
 
+# Sprint 27
+
+- <strike> DE: Set up trigger for automated payment reminder #424
+- Bug: CCT shows mulitple payment reminder emails sent to consumer on the same day #510
+- State Machine: Country & Product Isolation #777 </strike> 
+- [IN PROGRESS] Sentry Cleanup and Investigation #450
+- [IN PROGRESS] Null agent ID (end of the month) #462
+- [IN PROGRESS] Script to set the SendGrid template IDs up #507
+- [IN PROGRESS] DE Subledger fix #456. Done. To be released in end of July.
+
+**EPICS Roadmap tickets:**
+- <strike>  BaS: Configure PROD URLs for UK #529
+- UK: Make Emails configurable by Sales Channel #521
+- UK: Configure new merchant accounts (live) #483 </strike> 
+
+**Ops tickets:**
+- <strike>  FR: Ops ticket w27 #517
+- PL: Extract list of users #519
+- HU: Update T&Cs #525
+- PL: Update Certificate #526
+- DE: Ops ticket w28 #523
+- Quicksight: Net sales report #499
+- Adyen PT+FI+NO Account Setup #524
+- SE: Disable refund scenarios #528
+- FE: Notifications - Banner for System messages #514
+- PL - Push certificate to Regulus #512
+- SE - Claims/Survey Reporting Improvement (tracking change from IW to OOW) #390 </strike> 
+- [IN PROGRESS] 3rd Environment #530
+
 
 # Sprint 25
 
