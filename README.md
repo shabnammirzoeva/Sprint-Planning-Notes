@@ -1,7 +1,6 @@
 # Sprint 28
 
 - <strike> HU: FIS Implementation - Regulus integration #540
-- HU: FIS Implementation - SAP integration  # 539
 - HU: FIS Implementation - Offerings  # 538
 - HU: FIS Implementation - Emails  # 537 
 - PL: Update Policy Info #553
