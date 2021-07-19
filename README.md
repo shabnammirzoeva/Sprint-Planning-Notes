@@ -12,9 +12,9 @@
 - IT: integration issue to C4C 84029 #541 </strike> 
 
 Ad-hoc:
-<strike>  DE: Order 77793 - Transaction is not reflected in the order page in CCT #556
-PL + IT : Order State is not updated #550
-SE - Claims/Survey Reporting Improvement (tracking change from IW to OOW) #390 </strike> 
+- <strike> DE: Order 77793 - Transaction is not reflected in the order page in CCT #556
+- PL + IT : Order State is not updated #550
+- SE - Claims/Survey Reporting Improvement (tracking change from IW to OOW) #390 </strike> 
 
 
 # Sprint 27
