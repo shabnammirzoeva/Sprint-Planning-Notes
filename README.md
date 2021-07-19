@@ -1,3 +1,21 @@
+# Sprint 28
+
+- <strike> HU: FIS Implementation - Regulus integration #540
+- HU: FIS Implementation - SAP integration  # 539
+- HU: FIS Implementation - Offerings  # 538
+- HU: FIS Implementation - Emails  # 537 
+- PL: Update Policy Info #553
+- SE: CN Generation #551
+- DE: Change order state from "Terminated" to "Active" #552
+- DE: Ops ticket (w28) #547
+- Quicksight: Net sales report #499
+- IT: integration issue to C4C 84029 #541 </strike> 
+
+Ad-hoc:
+<strike>  DE: Order 77793 - Transaction is not reflected in the order page in CCT #556
+PL + IT : Order State is not updated #550
+SE - Claims/Survey Reporting Improvement (tracking change from IW to OOW) #390 </strike> 
+
 
 # Sprint 27
 
