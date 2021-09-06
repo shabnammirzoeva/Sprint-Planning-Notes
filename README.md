@@ -1,3 +1,28 @@
+
+# Sprint 35
+
+- [IN PROGRESS Re-deploy all masters in dev env (using latest tag) by pressing a button in command-center #15
+- [IN PROGRESS  Ingestion-service #244
+- [IN PROGRESS Create endpoints to store claims in claim-service #596
+- [IN PROGRESS  Phase 1 - Deploy Claim Repository and migrate data #4
+
+**TO DO W36:**
+- Split out claims from order-service into a "claim-service" #243
+- Phase 2 - Claim service is the master of old claims #5
+- Phase 3 - Attach ingestion service and implement claim factories in claim-service #
+- Phase 4 - Migration from old claim model to new claim model #7
+- Phase 5 - Publish internal claim events and process them in order-service #8 
+
+**Ops Tickets:**
+<strike> CZ: Update pricing on Care and R&C #617 - 12 new offers need to be setup to support new pricing.
+- UK: Update Partial refund amount #612
+- UK: Update T&C for e-mails #613
+- FR: Ops ticker (w35, Complete by 3 Sep) #610
+- SE: Cancel orders #608 </strike> 
+
+
+
+
 # Sprint 28
 
 - <strike> HU: FIS Implementation - Regulus integration #540
