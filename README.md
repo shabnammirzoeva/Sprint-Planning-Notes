@@ -1,4 +1,16 @@
 
+# Sprint 36
+
+**Ops Tickets:**
+
+<strike> - ES: Update AEG domain (aeg.com.es instead of aeg.es). #639
+- Iberia: set "Identification number" as mandatory field in Nexure for both PT + ES #637
+- PL: Ops (w36) #638
+- FR: Ops ticket (w36( (By 8 Sep) #636
+- FR: Activate MOTO on CCT #591
+- All - Exit survey in QS #616 - @Peter Nordenstedt in order for us to review this ticket, we need more specs. It is specified in the ticket. </strike> 
+
+
 # Sprint 35
 
 - [IN PROGRESS Re-deploy all masters in dev env (using latest tag) by pressing a button in command-center #15
