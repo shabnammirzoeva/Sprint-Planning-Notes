@@ -1,4 +1,15 @@
 
+# Sprint 42
+- All - Exit survey in QS #616 - the data seems unreliable, hence we might skip this ticket altogether
+- <strike> FR: Partial refund for FPR + T&Cs update #670
+- DE: Care order age on staging (18 Oct) #760
+- DE: Ops ticket (w41 by 23 Oct) #739
+- DE Chargeback Cases #690
+- FR: Ops ticket w42 (By 19 Oct) #721
+- Iberia: Attach T&Cs for PT + ES #766 </strike>
+- [Pending Review]SE: Investigate payment reminder emails #615 - CJ to review W43
+
+
 # Sprint 36
 
 **Ops Tickets:**
