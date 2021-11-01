@@ -8,6 +8,13 @@
 - FR: Update Inspection fee T&Cs #777 - needs re-planning. 
 
 
+Ad-hoc:
+- <strike> German order is not terminated #750
+- C4C is down - All calls are failing #783
+- Order is in FAILED_PAYMENT instead of ACTIVE #749 </strike>
+
+
+
 # Sprint 42
 - All - Exit survey in QS #616 - the data seems unreliable, hence we might skip this ticket altogether
 - <strike> FR: Partial refund for FPR + T&Cs update #670
