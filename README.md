@@ -1,11 +1,11 @@
 # Sprint 43
-- All - Exit survey in QS #616 - @Peter Nordenstedt please review if we want to move forward with this ticket. The data seems unreliable, and I wouldn't want to spend resources, if that is the case.
+- All - Exit survey in QS #616 - @Peter Nordenstedt to review if we want to move forward with this ticket (the data seems unreliable)
 - <strike>PL: Update orders #677
 - IT: Add external agent to GAP contact centre #763
 - SE: New station (Deadline 26th Oct) #767
 - [BUG]German order is not terminated #750
 - [BUG] Order is in FAILED_PAYMENT instead of ACTIVE #749 </strike>
-- FR: Update Inspection fee T&Cs #777 
+- FR: Update Inspection fee T&Cs #777 - needs re-planning. 
 
 
 # Sprint 42
