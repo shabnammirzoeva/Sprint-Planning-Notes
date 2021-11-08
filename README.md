@@ -1,3 +1,16 @@
+
+# Sprint 44
+- <strike> FR: Care offering update (1 Nov) #546
+- DE: Cancel order 104938 before 4 Nov #786
+- SE: Cancel orders #738
+- DE: Cancel order 110151 107739 before 12 Nov #792
+- FR: w45 cancel 84452 by 9 Nov #774
+- IT: cancel order 99183 prior to 8/11 #769
+- IT: Cancellation of order prior to 5 nov #784
+- FR: Cancel 70549 by 16 Nov #778 </strike>
+
+
+
 # Sprint 43
 - All - Exit survey in QS #616 - @Peter Nordenstedt to review if we want to move forward with this ticket (the data seems unreliable)
 - <strike>PL: Update orders #677
