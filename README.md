@@ -1,3 +1,30 @@
+# Sprint 45
+**EPICs:**
+- [In progress] Implementation of the Cancellation Button in the Monitoring Tool for Orders @Gustaf Rydholm @Tommy Ljungberg. Release planned on W46
+- [In progress] CDC PoC (Web Channel) @Anton Österberg  @Tommy Ljungberg . Release planned on W46. Co-dependency w. CDC team
+- [Delay]AWS Upgrade Investigation @Carl-Johan Larsson . Was postponed to W46. Had no time to kick-off the project.
+-  <strike>  BE Roll-out @Inam ur Rehman 
+- BE: Setup environment #826 
+- BE: User Communication Emails (W45) #827
+- Breeze UI Material Update @Tommy Ljungberg </strike>
+
+**Operational tickets:**
+- <strike> DE: w45 Cancel 98690 by 9 Nov #759
+- DE Chargeback Cases #690
+- DE: 57755 - Need new UPM by 4 Nov (Chargeback Case) #798
+- Add productPrice as a variable to templates #820
+- IT: Activate Paypal as payment method (11th Nov) #743
+- All - Exit survey in QS #616
+- SE: Resend invoice to SAP #799 </strike>
+- [In progress]IT: activate "Buy now, pay later" option to Care without AD in Italy #655. Moved to W46.
+
+
+**Ad-hoc:**
+- <strike> Update amount of partial refund for Iberia #833
+- [FR] Order in wrong state: 39658 #829
+- [FR] Order in active state with several failed payments: 39287 #832
+- [FR] Broken order state: 39611 #830 </strike>
+
 
 # Sprint 44
 - <strike> FR: Care offering update (1 Nov) #546
