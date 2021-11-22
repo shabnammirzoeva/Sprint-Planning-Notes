@@ -1,3 +1,22 @@
+# Sprint 46
+**EPICs:**
+- [In progress]  Implementation of the Cancellation Button in the Monitoring Tool for Orders. To be completed in W47
+-  <strike> CDC PoC (Web Channel) @Anton Österberg  @Tommy Ljungberg. Demo completed on Nov 18 </strike> 
+- [In progress]  BE Roll-out @Inam ur Rehman
+- [In progress]  Breeze UI Material Update. Done, needs merging.
+
+
+**Operational tickets:**
+- [In progress]IT: activate "Buy now, pay later" option to Care without AD in Italy #655. Final review to be done W47.
+- <strike> SE: Cancel order #846
+- FR: cancel order 86845 by 18 Nov #801
+- DE: Withdraw order 87135 97968 111098 before 19 Nov #788
+- DE: Withdraw order 112072 by 22 Nov #821
+- DE: Update product info #780
+- PL: Update orders (not needed to send to Regulus) #800 
+- SE: SAP invoices/credit notes missing #845 </strike> 
+
+
 # Sprint 45
 **EPICs:**
 - [In progress] Implementation of the Cancellation Button in the Monitoring Tool for Orders @Gustaf Rydholm @Tommy Ljungberg. Release planned on W46
