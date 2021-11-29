@@ -1,3 +1,20 @@
+# Sprint 47
+- [In progress]BE Launch - @Peter Nordenstedt to reivew tickets in QA
+- [In progress] IE Launch - to be picked up W49
+- [In progress] AWS Service Upgrade - @Carl-Johan Larsson @Anton Österberg to kick-off the project this week.
+- [In progress] Cancellation button implementation - @Tommy to pick up FE tickets
+- [In progress] Breeze UI Material Update - @Tommy Ljungberg is done, needs to merge.
+
+
+
+**Operational tickets:**
+- <strike> FR: FPR - Implement Partial refund for <24 hr cancellation #865
+- ConCent Wave 2: FR/CZ/PL + IE QA links #860
+- Iberia: Block users in ES #861
+- SE: Cancel order #858
+- DE: new UPM 68850  # 867 </strike>
+
+
 # Sprint 46
 **EPICs:**
 - [In progress]  Implementation of the Cancellation Button in the Monitoring Tool for Orders. To be completed in W47
