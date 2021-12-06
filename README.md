@@ -1,5 +1,26 @@
+# Sprint 48
+- [In progress]AWS Service Upgrade
+- [In progress] Cancellation button implementation - @Tommy Ljungberg to complete FE 
+- [In progress] CDC Migration 
+- [In progress] BE Launch - @Peter Nordenstedt the tickets are in the QA for you to review & for us to fix, if there are any issues.
+- [In progress] SE Invoicing - @Peter Nordenstedt can you share the ticket you want us to pick up for this project?
+
+**Operational tasks:**
+- <strike> DE: Withdraw order 98469 before 5 Dec #864
+- Update VAT rate for Iberia for reporting #879 </strike>
+- DE: Error in subledger #828
+- IT: Update prices FPR and R&C #842 - Done. Waiting for the C4C team to update prices in their side. Once the prices are updated, we will run an E2E test and release to production
+
+**Ad-hoc:**
+
+- FE: AaaS login upgrade to Auth0 #921 (AaaS)
+- DEV: set a dedicated Tenant up #874
+- FE: Checkout UI Material update #872
+- FE: Auth0 config in Command Center #894
+
+
 # Sprint 47
-- [In progress]BE Launch - @Peter Nordenstedt to reivew tickets in QA
+- [In progress] BE Launch - @Peter Nordenstedt to reivew tickets in QA
 - [In progress] IE Launch - to be picked up W49
 - [In progress] AWS Service Upgrade - @Carl-Johan Larsson @Anton Österberg to kick-off the project this week.
 - [In progress] Cancellation button implementation - @Tommy to pick up FE tickets
