@@ -1,4 +1,4 @@
-**#Sprint 49
+**#Sprint 49**
 - <strike> AWS Service Upgrade </strike>
 - [In progress] CDC Migration - delivery planned on W51. Testing in Jan 2022.
 - [In progress]  SE Invoicing - 
