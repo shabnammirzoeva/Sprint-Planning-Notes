@@ -1,4 +1,22 @@
-# Sprint 48
+**#Sprint 49
+- <strike> AWS Service Upgrade </strike>
+- [In progress] CDC Migration - delivery planned on W51. Testing in Jan 2022.
+- [In progress]  SE Invoicing - 
+- [QA]  BE Launch 
+- [QA] Ireland Launch - delivery planned W49
+- [QA]  Netherlands Launch. Missing Email IDs
+- <strike>[ Cancellation button implementation </strike>
+
+**Here are the list of operational tasks for this week:
+**
+- <strike> PL(Mon): Change name on promotional offerings #909
+- HU (Mon): Update pricing on 2 offers (xmas discount) Dec6th?! #899
+- SE (W49-50): Cancel order (before end of the year) #915
+- SE (W49-50):: Update pricing #914 </strike>
+
+
+
+#Sprint 48
 - [In progress]AWS Service Upgrade
 - [In progress] Cancellation button implementation - @Tommy Ljungberg to complete FE 
 - [In progress] CDC Migration 
