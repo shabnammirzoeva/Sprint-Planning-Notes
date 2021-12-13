@@ -3,7 +3,7 @@
 - [In progress] CDC Migration - delivery planned on W51. Testing in Jan 2022.
 - [In progress]  SE Invoicing - 
 - [QA]  BE Launch 
-- [QA] Ireland Launch - delivery planned W49
+- [QA] Ireland Launch
 - [QA]  Netherlands Launch. Missing Email IDs
 - <strike>[ Cancellation button implementation </strike>
 
