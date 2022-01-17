@@ -1,3 +1,31 @@
+**#Sprint 3, 2022**
+
+**EPICS:**
+**ConCent Wave 2 Launch Tickets:**
+- {In progress} IE: User communication emails (recurring ticket) #905
+- {In progress} BE: Offers to be setup (recurring ticket) #862
+- {In progress}  NL setup (Recurring) #916
+- {In progress} ConCent W2, CZ (Jan 10-11): VAT Support for FPR Product #919
+- {In progress} SK: Setup offer + email templates #941
+- {In progress} IE: Set up FPR offering #904
+- {In progress} C4C CEE: configure CEE countries to switch from Regulus to C4C integration #969
+- {In progress} C4C FR: configure FR to switch from Gestech to C4C integration #968
+
+**CDC Integration:**
+- CDC integration #335
+- CDC initial ingestion: Consumer+Product Export #954
+
+**Operational Tasks:**
+- {To-do) Quicksite data: Get info if the product is bought IW/OOW #973
+- {In progress} AWS SMS: not receiving text messages in Staging/DEV #975 
+- {In progress}  FR: Cancel orders in Pending Cancellation #963
+- {In progress} (FIX before Jan 20)BE: initial offset is set to 30 days for IW + migration for the existing ones #70
+- {In progress} CZ: 56343 Can't cancel order after binding is over (By 14 Jan) #948
+- {In progress}  FR: update payment reminder email schedule #492
+- {In progress}  IT: Activate Paypal as payment method #743
+- {In progress}  IT: Deactivate SEPA as a payment method for new customers (except for MOTO payments) #294
+- {In progress} Complete external settlement task #1103
+
 **#Sprint 49**
 - <strike> AWS Service Upgrade </strike>
 - [In progress] CDC Migration - delivery planned on W51. Testing in Jan 2022.
