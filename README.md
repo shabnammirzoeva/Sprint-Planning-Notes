@@ -1,4 +1,34 @@
-**#Sprint 3, 2022**
+**#Sprint 3, 2022 Review** 
+
+EPICS: ConCent Wave 2 Launch Tickets:
+
+- {On Hold} BE: Offers to be setup (recurring ticket) #862 - moved back to BIZDEV backlog for Peter to QA and let us know if any changes are required + add final prices.
+- {On Hold}NL setup (Recurring) #916 - moved back to BIZDEV backlog for Peter to QA and let us know if any changes are required + add final prices.
+- {On Hold}ConCent W2, CZ (Jan 10-11): VAT Support for FPR Product #919
+- {On Hold} C4C CEE: configure CEE countries to switch from Regulus to C4C integration #969: waiting for claim service update from C4C.
+- <strike>  SK: Setup offer + email templates #941
+- IE: Set up FPR offering #904
+- C4C FR: configure FR to switch from Gestech to C4C integration #968
+- IE: User communication emails (recurring ticket) #905 <strike> 
+
+- 
+**CDC Integration:** 
+- {In progress} CDC integration #335 - in reivew, minor changes to be implemented due to last minute flow updates from the CDC team.
+- {In progress} CDC initial ingestion: Consumer+Product Export #954 - in reivew, minor changes to be implemented due to last minute flow updates from the CDC team.
+- 
+**Operational Tasks:**
+- </strike> Quicksite data: Get info if the product is bought IW/OOW #973
+- AWS SMS: not receiving text messages in Staging/DEV #975
+- FR: Cancel orders in Pending Cancellation #963
+- (FIX before Jan 20)BE: initial offset is set to 30 days for IW + migration for the existing ones #70 
+- IT: Deactivate SEPA as a payment method for new customers (except for MOTO payments) #294 </strike>
+- {In progress} Complete external settlement task #1103
+- {In progress}  CZ: 56343 Can't cancel order after binding is over (By 14 Jan) #948 
+- {In progress} IT: Activate Paypal as payment method #743
+- {In progress}  FR: update payment reminder email schedule #492
+
+
+**#Sprint 2, 2022**
 
 **EPICS:**
 **ConCent Wave 2 Launch Tickets:**
