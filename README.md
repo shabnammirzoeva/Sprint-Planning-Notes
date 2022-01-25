@@ -11,11 +11,11 @@ EPICS: ConCent Wave 2 Launch Tickets:
 - C4C FR: configure FR to switch from Gestech to C4C integration #968
 - IE: User communication emails (recurring ticket) #905 <strike> 
 
-- 
+
 **CDC Integration:** 
 - {In progress} CDC integration #335 - in reivew, minor changes to be implemented due to last minute flow updates from the CDC team.
 - {In progress} CDC initial ingestion: Consumer+Product Export #954 - in reivew, minor changes to be implemented due to last minute flow updates from the CDC team.
-- 
+
 **Operational Tasks:**
 - </strike> Quicksite data: Get info if the product is bought IW/OOW #973
 - AWS SMS: not receiving text messages in Staging/DEV #975
