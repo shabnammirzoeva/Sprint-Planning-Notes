@@ -1,3 +1,31 @@
+
+
+**Sprint 9, 2022 Review:**
+**EPICS:**
+- Bordereau Revamp Project #1027 - Deadline: W9
+- Improved Chargeback Handling #1026 - Deadline: W11
+
+**Ops Tickets:**
+- HU: Pricing/T&C update - Deadline 12:00 28/2 #1052
+- FR: Update R+C contract expiry age #1054
+- PL: Cancel transaction (Deadline 28/2) #1065
+- FR: Service material update for R+C and Care #1060
+- IT: Update T&C for FPR & Care #1056
+- DE: PayPal - open to 50% of consumers #1066
+- IT: Investigate why order 141765 goes directly to withdrawn instead of pending cancellation. #1067
+- IT: Change purchase date of appliance #1058
+
+**Sprint 6, 2022 Review:**
+
+- <strike> Remove search function in sales script (CCT) - nobody's using it #1030
+- SE: technicians filling in claims details. Pre-fill the ONLY option they can select #1031
+- DE: 56926 system stopped charging for 7 months #1024
+- IT: Launch of new R&C / FPR offers for partial refund #1019
+- SAP invoice search not working in CMD #1018
+- IT: EW sold for 140506 with an appliance out of eligibility -> Expired #1022 </strike> 
+
+
+
 **#Sprint 3, 2022 Review** 
 
 EPICS: ConCent Wave 2 Launch Tickets:
