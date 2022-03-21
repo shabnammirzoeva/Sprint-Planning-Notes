@@ -1,3 +1,47 @@
+**Sprint 12, 2022 Review:**
+
+**Epics: Price Segmentation**
+- Hacky - Pricing Segmentation #1121 @Bizdevs, we need support with product category mapping for their markets. 
+- Master Data: ingest latest products/product categories #1120
+- Price Segmentation: available categories in Offerings #1113
+
+**{In progress}Bordereau Revamp Project #1027** - Final testing by BizDevs to be completed on 24th of March. Might require changes in the premium sheet for IPT calculations.
+**{In progress} Improved Chargeback Handling #1026** - Deadline: W11 - Release date: March 30.
+
+As for the operational tasks, here is the list:
+- IT: C4C ticket mashup is not working #1115
+- SE: Access rights for Electrolux Admin likely does not include uploading payment ingestion file #1106
+- IT: Buy now pay later, payment link doesn't work and tickbox missing #1111
+- QS: Reporting showing wrong "Team" #1112
+- BE/NL: Update sender adress #1107
+- SE: Cancel cancellations emails sent to operationsupport #1101
+- FR/C4C: Street number imported incorrectly #1109
+- CZ: Actiavte offers for WEB channel #1100
+- New Permission: concent-tickets #1122
+- FR: UPM not working #1110
+- DE 76912 cannot trigger pending cancellation on CCT (before mid Apr) #1088
+- FE AEG/Zanussi checkout: Change colors #1108
+
+**Sprint 10, 2022 Review:**
+**EPICS:**
+- {In progress}Bordereau Revamp Project #1027 - Final testing by BizDevs to be completed on 24th of March. Might require changes in the premium sheet for IPT calculations.
+- {In progress} Improved Chargeback Handling #1026 - Deadline: W11 - Release date: March 30.
+
+**Ops Tickets:**
+- <strike> HU: Pricing/T&C update - Deadline 12:00 28/2 #1052
+- FR: Update R+C contract expiry age #1054
+- PL: Cancel transaction (Deadline 28/2) #1065
+- FR: Service material update for R+C and Care #1060
+- IT: Update T&C for FPR & Care #1056
+- DE: PayPal - open to 50% of consumers #1066
+- IT: Investigate why order 141765 goes directly to withdrawn instead of pending cancellation. #1067
+- IT: Change purchase date of appliance #1058 </strike>
+
+**Ad-hoc:**
+- <strike> CMD Center: re-trigger failing ConCenT calls #1044
+- Issue to open Nexure CCT from C4C (WIP) #1086 </strike>
+
+
 
 
 **Sprint 9, 2022 Review:**
