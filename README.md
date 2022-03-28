@@ -1,17 +1,29 @@
+
+**Sprint 13, 2022 Review:**
+
+**EPICS:**
+- Bordereau - Tuesday, March 29th. (Shout-out to @Inam ur Rehman @Gustaf Rydholm @Cristian Vergallo 
+- Chargeback Handling - (Preliminary) Thursday. (Shout-out to @Anton Österberg @Carl-Johan Larsson). We need to wait at least 48hrs to ensure Bordereau release goes smoothly. In case of issues, we might postpone chargeback handling to next week. FYI: @Ashley Chong @Peter Nordenstedt @Sofie Lang. (B
+Other than these releases, our major focus this week is to continue development of price segmentation project, start looking into ISP Reporting in QS and complete MongoDB upgrade.
+
+**Here are our operational tickets:**
+- {In progress} IT: Buy now pay later, payment link doesn't work and tickbox missing #1111
+- {In progress} SE: Access rights for Electrolux Admin likely does not include uploading payment ingestion file #1106
+- IT: Add Care offer with price 11,90 to substitute terminated R&C's. #1130
+- FR/C4C: Set up FPR partial refund button on CCT on Staging for testing #1133
+- Wave 2 (SK + IE) Market Releases #1128
+
 **Sprint 12, 2022 Review:**
 
-**Epics: Price Segmentation**
+**Epics: Price Segmentation** {In progress} 
 - Hacky - Pricing Segmentation #1121 @Bizdevs, we need support with product category mapping for their markets. 
 - Master Data: ingest latest products/product categories #1120
 - Price Segmentation: available categories in Offerings #1113
 
-**{In progress}Bordereau Revamp Project #1027** - Final testing by BizDevs to be completed on 24th of March. Might require changes in the premium sheet for IPT calculations.
-**{In progress} Improved Chargeback Handling #1026** - Deadline: W11 - Release date: March 30.
-
+**Bordereau Revamp Project #1027** - Testing completed. To be released on March 29th.
+** Improved Chargeback Handling #1026** - Completed. (Preliminary) release planned on Thursday. We need to wait at least 48hrs to ensure Bordereau release goes smoothly. In case of issues, we might postpone chargeback handling to next week.
 As for the operational tasks, here is the list:
-- IT: C4C ticket mashup is not working #1115
-- SE: Access rights for Electrolux Admin likely does not include uploading payment ingestion file #1106
-- IT: Buy now pay later, payment link doesn't work and tickbox missing #1111
+- <strike> IT: C4C ticket mashup is not working #1115
 - QS: Reporting showing wrong "Team" #1112
 - BE/NL: Update sender adress #1107
 - SE: Cancel cancellations emails sent to operationsupport #1101
@@ -20,7 +32,9 @@ As for the operational tasks, here is the list:
 - New Permission: concent-tickets #1122
 - FR: UPM not working #1110
 - DE 76912 cannot trigger pending cancellation on CCT (before mid Apr) #1088
-- FE AEG/Zanussi checkout: Change colors #1108
+- FE AEG/Zanussi checkout: Change colors #1108 </strike>
+- {In progress, moved to W13}SE: Access rights for Electrolux Admin likely does not include uploading payment ingestion file #1106
+- {In progress, moved to W13}IT: Buy now pay later, payment link doesn't work and tickbox missing #1111
 
 **Sprint 10, 2022 Review:**
 **EPICS:**
