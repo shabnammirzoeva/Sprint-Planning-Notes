@@ -1,17 +1,35 @@
 
+
+**Sprint 14, 2022 Review:**
+- {Ongoing} Price Segmentation 
+- {Ongoing} MongoDB Upgrade
+- {Ongoing} SECO
+- {New} Nexure->C4C Integration
+- {New} Adyen Tokenization
+
+**Operational tasks:**
+- SMOKE Test Merchant Account Configuration: SK, IE, BE, NL #1153
+- IT: Add Care offer with price 11,90 to substitute terminated R&C's. #1130
+- FR: 123971 Cancel order by 5 Apr #1150
+- FR: 123971 Cancel order by 5 Apr #1150
+- IT: no payments being charged to active order 81633 #1136
+- SE: Failed refund on Swish payment #1139
+- DE: Update appliance purchase date #1144
+
+
 **Sprint 13, 2022 Review:**
 
 **EPICS:**
-- Bordereau - Tuesday, March 29th. (Shout-out to @Inam ur Rehman @Gustaf Rydholm @Cristian Vergallo 
+- <strike> Bordereau - Tuesday, March 29th. (Shout-out to @Inam ur Rehman @Gustaf Rydholm @Cristian Vergallo 
 - Chargeback Handling - (Preliminary) Thursday. (Shout-out to @Anton Österberg @Carl-Johan Larsson). We need to wait at least 48hrs to ensure Bordereau release goes smoothly. In case of issues, we might postpone chargeback handling to next week. FYI: @Ashley Chong @Peter Nordenstedt @Sofie Lang. (B
-Other than these releases, our major focus this week is to continue development of price segmentation project, start looking into ISP Reporting in QS and complete MongoDB upgrade.
+Other than these releases, our major focus this week is to continue development of price segmentation project, start looking into ISP Reporting in QS and complete MongoDB upgrade.</strike>
 
 **Here are our operational tickets:**
-- {In progress} IT: Buy now pay later, payment link doesn't work and tickbox missing #1111
+- <strike>{In progress} IT: Buy now pay later, payment link doesn't work and tickbox missing #1111
 - {In progress} SE: Access rights for Electrolux Admin likely does not include uploading payment ingestion file #1106
 - IT: Add Care offer with price 11,90 to substitute terminated R&C's. #1130
-- FR/C4C: Set up FPR partial refund button on CCT on Staging for testing #1133
-- Wave 2 (SK + IE) Market Releases #1128
+- FR/C4C: Set up FPR partial refund button on CCT on Staging for testing #1133 </strike>
+- {Ongoing}Wave 2 (SK + IE) Market Releases #1128 - Waiting for SK domain in prod. environment.
 
 **Sprint 12, 2022 Review:**
 
