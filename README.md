@@ -1,4 +1,20 @@
 
+**Sprint 15, 2022 Review:**
+
+- {Ongoing} Price Segmentation 
+- {Ongoing} MongoDB Upgrade
+- {Ongoing} SECO
+- {Ongoing} Nexure->C4C Integration
+
+**Operational tasks:**
+- SMOKE test testing for CEE/FR markets - add ticket + consumer IDs #1129 - we will set the code this week and are awaiting for the Ticket ID from the ConCent Team.
+- IT: Investigate why there's two payments in March for order: 89951 #1173
+- SE: Failed refund on Swish payment #1168 
+- BE CEE: Copy "Street" string from C4C as it is to "Address" field in Nexure CCT #1146
+- FE CEE: Remove the validation for the "Street Number" in Nexure CCT #1146 #1147
+- CZ: Update T&Cs for Care + R&C #1162
+- CZ: Actiavte offers for WEB channel (to complete before W17) #1100
+
 
 **Sprint 14, 2022 Review:**
 - {Ongoing} Price Segmentation 
@@ -8,13 +24,13 @@
 - {New} Adyen Tokenization
 
 **Operational tasks:**
-- SMOKE Test Merchant Account Configuration: SK, IE, BE, NL #1153
+- <streak>SMOKE Test Merchant Account Configuration: SK, IE, BE, NL #1153
 - IT: Add Care offer with price 11,90 to substitute terminated R&C's. #1130
 - FR: 123971 Cancel order by 5 Apr #1150
 - FR: 123971 Cancel order by 5 Apr #1150
 - IT: no payments being charged to active order 81633 #1136
 - SE: Failed refund on Swish payment #1139
-- DE: Update appliance purchase date #1144
+- DE: Update appliance purchase date #1144</streak>
 
 
 **Sprint 13, 2022 Review:**
