@@ -1,3 +1,19 @@
+**Sprint 156, 2022 Review:**
+
+- {Ongoing} Price Segmentation 
+- {Ongoing} FR SMoke Test Support
+- {Ongoing} SECO
+- {Ongoing} Nexure->C4C Integration
+
+Operational tasks:
+- CZ: Two PoM booked as FPR? #1187
+- FR: Consumer double monthly payment #1125
+- FR 131048 withdraw by 1 May #1171
+- PL: Change 3Y order status (Active-> Withdrawn) #1158
+- IT: Revert order 158436 back to active (next payment April 30) #1161
+- BE+NL: Manual claims #1189
+- QS: Give dataset access to Installed Base Team #1192
+- DE subledger Care upfront fee #1157
 
 **Sprint 15, 2022 Review:**
 
@@ -8,12 +24,12 @@
 
 **Operational tasks:**
 - SMOKE test testing for CEE/FR markets - add ticket + consumer IDs #1129 - we will set the code this week and are awaiting for the Ticket ID from the ConCent Team.
-- IT: Investigate why there's two payments in March for order: 89951 #1173
+- <streak>S IT: Investigate why there's two payments in March for order: 89951 #1173
 - SE: Failed refund on Swish payment #1168 
 - BE CEE: Copy "Street" string from C4C as it is to "Address" field in Nexure CCT #1146
 - FE CEE: Remove the validation for the "Street Number" in Nexure CCT #1146 #1147
 - CZ: Update T&Cs for Care + R&C #1162
-- CZ: Actiavte offers for WEB channel (to complete before W17) #1100
+- CZ: Actiavte offers for WEB channel (to complete before W17) #1100 <streak>S
 
 
 **Sprint 14, 2022 Review:**
