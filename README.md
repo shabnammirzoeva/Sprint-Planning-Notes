@@ -1,4 +1,25 @@
-**Sprint 156, 2022 Review:**
+**Sprint 17, 2022 Review:**
+EPICs:
+- Release of the price segmentation for the Inbound Flow (External System)
+- Ongoing} SECO finalisation
+- {Ongoing} Adyen Tokenization 
+- {Ongoing} Nexure->C4C Integration
+- {New} D2C Transformer Kick-off
+
+Operational tasks:
+- SE: Update FPR/inspection pricing (Go live May 1st) #1191
+- QS: Add parameter "created in warranty" #1156
+- Datalake: Adding full refund field to the weekly beat funnel #1198
+- QS/ CCT: PL expired contracts shown as Active? #1190 
+- DE: switching old/new RSP offer (tentative date: 2 May) #1200
+- DE: Cancel order 63955 by 30 Apr #1194
+- FR 131048 withdraw by 1 May #1171
+- BE+NL: Manual claims #1189
+- IT: Cancel order 58809 (In failed payments) #1202
+- IT: Add Care offer with price 11,90 to substitute terminated R&C's. #1130
+- FR - 144468: Agent sold RS close to appliance eligibility expiration #1199
+
+**Sprint 16, 2022 Review:**
 
 - {Ongoing} Price Segmentation 
 - {Ongoing} FR SMoke Test Support
@@ -6,14 +27,14 @@
 - {Ongoing} Nexure->C4C Integration
 
 Operational tasks:
-- CZ: Two PoM booked as FPR? #1187
-- FR: Consumer double monthly payment #1125
-- FR 131048 withdraw by 1 May #1171
+- CZ: Two PoM booked as FPR? #1187 - Need input from BizDev team
+- BE+NL: Manual claims #1189 - Moved to W17
+- <streak> FR: Consumer double monthly payment #1125
+- FR 131048 withdraw by 1 May #1171 
 - PL: Change 3Y order status (Active-> Withdrawn) #1158
 - IT: Revert order 158436 back to active (next payment April 30) #1161
-- BE+NL: Manual claims #1189
 - QS: Give dataset access to Installed Base Team #1192
-- DE subledger Care upfront fee #1157
+- DE subledger Care upfront fee #1157</streak>
 
 **Sprint 15, 2022 Review:**
 
