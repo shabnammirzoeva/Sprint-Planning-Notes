@@ -1,23 +1,43 @@
+**Sprint 20, 2022 Review:**
+EPICs:
+- D2C Integration 
+- Nexure ->C4C Integration
+- Bordereau:
+1. Bordereau fixes #1219
+2. Fix Italian invoices #391
+3. Bordereau / Invoice Fixes #1214
+- PL Smoke Test - Wave 2 Roll-out
+- PL Invoicing Flows
+
+As for the operational tasks, here is the list:
+- BNL: Move offerings to production #1230
+- BNL - Insurance Policy #1231
+- FE: Unable to go to next page when browsing the offers in Staging #1232
+- [BE] Offering API: simple API version for creating new FPR/II/FIS offerings #1148
+- SE: Failed refund on Swish payment #1233
+
+
+
 **Sprint 17, 2022 Review:**
 EPICs:
-- Release of the price segmentation for the Inbound Flow (External System)
-- Ongoing} SECO finalisation
-- {Ongoing} Adyen Tokenization 
+- <strike> Release of the price segmentation for the Inbound Flow (External System)
+-  SECO finalisation
+- Adyen Tokenization </strike>
 - {Ongoing} Nexure->C4C Integration
 - {New} D2C Transformer Kick-off
 
-Operational tasks:
-- SE: Update FPR/inspection pricing (Go live May 1st) #1191
+**Operational tasks:**
+- <strike>SE: Update FPR/inspection pricing (Go live May 1st) #1191
 - QS: Add parameter "created in warranty" #1156
 - Datalake: Adding full refund field to the weekly beat funnel #1198
 - QS/ CCT: PL expired contracts shown as Active? #1190 
 - DE: switching old/new RSP offer (tentative date: 2 May) #1200
 - DE: Cancel order 63955 by 30 Apr #1194
 - FR 131048 withdraw by 1 May #1171
-- BE+NL: Manual claims #1189
 - IT: Cancel order 58809 (In failed payments) #1202
 - IT: Add Care offer with price 11,90 to substitute terminated R&C's. #1130
-- FR - 144468: Agent sold RS close to appliance eligibility expiration #1199
+- FR - 144468: Agent sold RS close to appliance eligibility expiration #1199 </strike>
+- {Ready for the PR review}BE+NL: Manual claims #1189
 
 **Sprint 16, 2022 Review:**
 
