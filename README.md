@@ -1,20 +1,20 @@
 **Sprint 20, 2022 Review:**
 EPICs:
-- D2C Integration 
-- Nexure ->C4C Integration
-- Bordereau:
+- {Ongoing} D2C Integration 
+- {Ongoing} Nexure ->C4C Integration
+- {Ongoing} Bordereau: planned to be released in W22
 1. Bordereau fixes #1219
 2. Fix Italian invoices #391
 3. Bordereau / Invoice Fixes #1214
-- PL Smoke Test - Wave 2 Roll-out
-- PL Invoicing Flows
+- </strike> PL Smoke Test - Wave 2 Roll-out
+- PL Invoicing Flows </strike>
 
 As for the operational tasks, here is the list:
-- BNL: Move offerings to production #1230
+- </strike> BNL: Move offerings to production #1230
 - BNL - Insurance Policy #1231
 - FE: Unable to go to next page when browsing the offers in Staging #1232
 - [BE] Offering API: simple API version for creating new FPR/II/FIS offerings #1148
-- SE: Failed refund on Swish payment #1233
+- SE: Failed refund on Swish payment #1233 </strike>
 
 
 
