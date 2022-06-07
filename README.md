@@ -1,3 +1,17 @@
+**Sprint 23: 
+EPICS:**
+- {Ongoing} D2C Integration - 2 tasks to be delivered this week:
+- {Done}A list of PNCs to test with (interim solution)
+- Endpoint for order creation
+- {Ongoing} Nexure ->C4C Integration - Testing Phase
+- {Ongoing}  BNL last changes before BGL - BNL BGL #1270
+**Operational tasks:**
+- {Bug}Re-trigger payment status/create certificate to Regulus #1273
+- SE: Marketing consent (deactivate) #1274
+- CZ & SK FPR- Update T&Cs #1268
+- CZ+SK: Update logic for parsing address line coming from C4C #1265
+- BNL: Give data access on QS #1269
+- CZ: Cancel order 174740 and 175462 used for smoke testing #1264
 
 **Sprint 22, 2022 Review:**
 **EPICs:**
