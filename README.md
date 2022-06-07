@@ -1,21 +1,22 @@
 
 **Sprint 22, 2022 Review:**
 **EPICs:**
-- D2C Integration 
-- Nexure ->C4C Integration
-- Bordereau fixes: we are done with the mitigation of all invoices. Last step: extract payment notifications & add it to Bordereau-service. It's aimed to be completed today; We are planning to extract April reports for HU, PL,DE & IT tomorrow morning. If not, we will go with our Plan B and extract "old" version Bordereau reports on Wednesday.
+- {Ongoing} D2C Integration 
+- {Ongoing}  Nexure ->C4C Integration
+- <strike> Bordereau fixes: we are done with the mitigation of all invoices. Last step: extract payment notifications & add it to Bordereau-service. It's aimed to be completed today; We are planning to extract April reports for HU, PL,DE & IT tomorrow morning. If not, we will go with our Plan B and extract "old" version Bordereau reports on Wednesday. </strike>
 
 **As for the operational tasks, here is the list:**
 
-- W22 FR: FPR AEG price seg (7 Jun) #1235 - @Ashley Chong the offer is setup now, we need to have the T&Cs by Friday at latest.
-- Update insurance premium % #1224
+- <strike>  Update insurance premium % #1224
 - ES: Bug - Cancellation of order triggers the failed payment email #1257
 - PL: Configure ticket for Smoke test #1260
 - PT: Care offer email configurations are the Italian ones #1237
 - DE PayPal: turn up to 100% #1252
 - FE: Price Segmentation #1218
-- {On Hold} FI: Setup new FPR offering #1262 - waiting for additional info. from @Peter Nordenstedt 
+- FI: Setup new FPR offering #1262 - waiting for additional info. from @Peter Nordenstedt </strike> 
 - {On Hold} ES+PT: Set up repair and care offer #1210 - waiting for additional info from @Sofie Lang 
+- W22 FR: FPR AEG price seg (7 Jun) #1235 - Newlaunch date. Planned on Monday, June 13.
+
 
 
 **Sprint 20, 2022 Review:**
