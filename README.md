@@ -1,3 +1,20 @@
+**Sprint 25:**
+
+**EPICs:**
+Our main goal for this week is to run a successful SIT for the Nexure->C4C Integration project and complete system integration for D2C for next week's SIT.
+
+
+**As for operational tasks, here is the list:**
+- Update T&Cs in the emails (payment link + payment confirmation)NL130622 T&C NL.pdf #1287
+- New prices for UK FPR AEG + Zanussi #1285
+- IT: Orde 178953 cannot be deleted even though we do not have transactions registered #1275
+- CZ: Cancellation scenario not working for Care OOW with annual payment #1284
+- IT: Update verification for Fiscal Code #1228
+- W26 FR: R+C AEG price seg (27 Jun) #1235
+- FE: ISP keyboard - showcase numerical instead of alphabetical #1280
+
+
+
 **Sprint 23: 
 EPICS:**
 - {Ongoing} D2C Integration - 2 tasks to be delivered this week:
