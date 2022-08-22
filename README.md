@@ -1,3 +1,18 @@
+
+**Sprint 34:**
+**EPICs:**
+- iDEAL
+- Bankomat
+- appliance-service 
+
+**Operational tasks:**
+- FI: FPR Refund scenarios #1368
+- HU: Update KU prices (Go live Sep 1st) #1369
+- SE: Update prices FPR (Go live Sep 1st) #1364
+- ES + PT: Add IPT in Care + R&C products #1365
+- FR 49875 UPM doesn't work (ASAP, no payment was charged in Jul) #1371
+
+
 **Sprint 26:**
 **EPICs:**
 - UAT IT
