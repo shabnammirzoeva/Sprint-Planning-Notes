@@ -1,4 +1,21 @@
 
+**Sprint 36:**
+**EPICs:**
+- <strike> ES+PT: Push Care + Repair and Care offers to Production #1399
+- ES: Update name of FPR offer #1397
+- ES+PT: Update sales commission and claims mgmt fee in Borderau. #1398
+- FE(Mid August) - ES+PT: Update validation of Tax ID code #1309 </strike>
+
+**Operational tasks:**
+- <strike> Incorrect transaction timestamp data on QS #1363
+- DE Bordereau incorrect date of policy inception #1360
+- SE: Upload Json #1393 </strike>
+ 
+** Ad-hoc tickets:**
+ -<strike> HU: Update SN and push to Regulus #1417 </strike>
+We also spent a long time prepping for a release of iDeal (there were a lot of dependencies).
+
+
 **Sprint 34:**
 **EPICs:**
 - iDEAL
@@ -73,9 +90,9 @@ EPICS:**
 - PT: Care offer email configurations are the Italian ones #1237
 - DE PayPal: turn up to 100% #1252
 - FE: Price Segmentation #1218
-- FI: Setup new FPR offering #1262 - waiting for additional info. from @Peter Nordenstedt </strike> 
-- {On Hold} ES+PT: Set up repair and care offer #1210 - waiting for additional info from @Sofie Lang 
-- W22 FR: FPR AEG price seg (7 Jun) #1235 - Newlaunch date. Planned on Monday, June 13.
+- FI: Setup new FPR offering #1262 - waiting for additional info. from @Peter Nordenstedt 
+- ES+PT: Set up repair and care offer #1210 - waiting for additional info from @Sofie Lang 
+- W22 FR: FPR AEG price seg (7 Jun) #1235 - Newlaunch date. Planned on Monday, June 13.</strike> 
 
 
 
@@ -83,7 +100,7 @@ EPICS:**
 EPICs:
 - {Ongoing} D2C Integration 
 - {Ongoing} Nexure ->C4C Integration
-- {Ongoing} Bordereau: planned to be released in W22
+- {Done} Bordereau: planned to be released in W22
 1. Bordereau fixes #1219
 2. Fix Italian invoices #391
 3. Bordereau / Invoice Fixes #1214
