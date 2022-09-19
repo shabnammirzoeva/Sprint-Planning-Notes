@@ -1,3 +1,36 @@
+**Sprint 38:**
+
+**EPICs:**
+- {Ongoing} Kick- off two discovery projects with C4C team (Refund & CN (KU products) automation) 
+- {Ongoing} Kick-off architectural discussions for OnBas project
+- {Ongoing} Continue with Consumer Centric Transformation project
+- ES + PT: Update offers Care + R&C #1437
+- ES + PT: Export Bordereau before wednesday morning #1433
+
+**Ops tasks:**
+- CZ: Update VAT Inspection fee #1441
+- SE: Swish refund failed #1431
+- DE: Cancel order 195741 before 23 Sep #1428
+- IT: Close contracts in failed payments #1426
+
+**Sprint 37:**
+
+EPICs:
+- <strike> Production release to enable iDeal payment method to go live in NL </strike>
+- {Ongoing} Kick- off two discovery projects with C4C team (Refund & CN (KU products) automation) 
+- {Ongoing} Kick-off architectural discussions for OnBas project
+- {Ongoing} Continue with Consumer Centric Transformation project
+
+Ops tasks: 
+- <strike>Incorrect transaction timestamp data on QS #1363
+- SE: New Json file #1418
+- UK: Refund options in price segmentation offers #1427
+- NL QS: Cannot see data on QS #1419
+- FI : Add tax rate FPR to 24% #1390
+- DE: New R+C and Care consumer list (by 13 Sep) #1424
+- FR 136263 withdraw before 18 Sep #1382
+- FE: Add Offering IDs in CCT (staging) #1429 </strike>
+- {Ongoing} Set up access for Ash #1416
 
 **Sprint 36:**
 **EPICs:**
