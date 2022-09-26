@@ -6,6 +6,11 @@
 - {Ongoing} ES + PT: Export Bordereau before wednesday morning #1433 - new test on Sep 26. Bordereau reports to be extracted again.
 - {New} D2C testing
 
+Checkout re-design & order page:
+- Line break is in the middle of the offer name in AEG web checkout #1452
+- Order Page - transaction failed update #1455
+- FE: Checkout Re-design (Payment Section) #1445
+
 **Ops tasks:**
 - {Ongoing} CMD Center: Extend FORCE CANCELLATION/WITHDRAWAL feature for Subscriptions #1447 - we couldn't complete it last week due to unplanned tasks.
 - {New} DE: Cancellation (Refund in progress) email #1353
