@@ -1,17 +1,33 @@
+**Sprint 39:**
+**EPICs:**
+- {Ongoing} Kick- off two discovery projects with C4C team (Refund & CN (KU products) automation) 
+- {Ongoing} Kick-off architectural discussions for OnBas project
+- {Ongoing} Continue with Consumer Centric Transformation project
+- {Ongoing} ES + PT: Export Bordereau before wednesday morning #1433 - new test on Sep 26. Bordereau reports to be extracted again.
+- {New} D2C testing
+
+**Ops tasks:**
+- {Ongoing} CMD Center: Extend FORCE CANCELLATION/WITHDRAWAL feature for Subscriptions #1447 - we couldn't complete it last week due to unplanned tasks.
+- {New} DE: Cancellation (Refund in progress) email #1353
+- {New} SE: SAP invoice with wrong amount #1383
+- {New} SE: Missing invoices IN SAP #1372
+- {New} QS: Add appliance purchase date field #1423
+- {New} DE: R+C Update refund amount and T&C (Go live: 3rd Oct) #1422
+
 **Sprint 38:**
 
 **EPICs:**
 - {Ongoing} Kick- off two discovery projects with C4C team (Refund & CN (KU products) automation) 
 - {Ongoing} Kick-off architectural discussions for OnBas project
 - {Ongoing} Continue with Consumer Centric Transformation project
-- ES + PT: Update offers Care + R&C #1437
-- ES + PT: Export Bordereau before wednesday morning #1433
+- {Completed}ES + PT: Update offers Care + R&C #1437
+- {Ongoing} ES + PT: Export Bordereau before wednesday morning #1433 - new test on Sep 26. Bordereau reports to be extracted again.
 
 **Ops tasks:**
-- CZ: Update VAT Inspection fee #1441
-- SE: Swish refund failed #1431
-- DE: Cancel order 195741 before 23 Sep #1428
-- IT: Close contracts in failed payments #1426
+- <strike> CZ: Update VAT Inspection fee #1441
+- SE: Swish refund failed #1431 </strike>
+- {Ongoing} DE: Cancel order 195741 before 23 Sep #1428
+- {Ongoing} IT: Close contracts in failed payments #1426
 
 **Sprint 37:**
 
